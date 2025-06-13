@@ -42,31 +42,7 @@ I’m a second-year engineering student passionate about web development, data s
 
 **Live Demo**: https://ufcd.netlify.app/
 
-3) *Sidcup-Family-Golf---Website-Clone*:
-
-**GitHub**: https://github.com/DEEP-222-N/-Sidcup-Family-Golf---Website-Clone
-
-**Live Demo**: https://sidecupclone.netlify.app/
-
-4) *Random-Password-Generator*:
-
-**GitHub**: https://github.com/DEEP-222-N/Random-Password-Generator
-
-**Live Demo**: https://passgeneratr.netlify.app/
-
-5) *PDF-Universe-HOME-Pages-ONLY*:
-
-**GitHub**: https://github.com/DEEP-222-N/PDF-Universe-HOME-Pages-ONLY
-
-**Live Demo**: https://pdfuniverser.netlify.app/
-
-6) *Amazon-Clone-Frontend-Only*:
-
-**GitHub**: https://github.com/DEEP-222-N/Amazon-Clone-Frontend-Only-
-
-**Live Demo**: https://amazonclonedeep.netlify.app/
-
-7) *Modern_Bank*:
+3) *Modern_Bank*:
 
 **GitHub**: https://github.com/DEEP-222-N/Modern_Bank
 
@@ -74,8 +50,32 @@ I’m a second-year engineering student passionate about web development, data s
 
 For UserName : test@123 password : Test@123
 
-8) *Currency-Convertor*:
+4) *Sidcup-Family-Golf---Website-Clone*:
+
+**GitHub**: https://github.com/DEEP-222-N/-Sidcup-Family-Golf---Website-Clone
+
+**Live Demo**: https://sidecupclone.netlify.app/
+
+5) *Currency-Convertor*:
 
 **GitHub**: https://github.com/DEEP-222-N/Currency-Convertor?tab=readme-ov-file#currency-convertor
 
 **Live Demo**: https://cuconverterd.netlify.app/
+
+7) *Amazon-Clone-Frontend-Only*:
+
+**GitHub**: https://github.com/DEEP-222-N/Amazon-Clone-Frontend-Only-
+
+**Live Demo**: https://amazonclonedeep.netlify.app/
+
+8) *Random-Password-Generator*:
+
+**GitHub**: https://github.com/DEEP-222-N/Random-Password-Generator
+
+**Live Demo**: https://passgeneratr.netlify.app/
+
+9) *PDF-Universe-HOME-Pages-ONLY*:
+
+**GitHub**: https://github.com/DEEP-222-N/PDF-Universe-HOME-Pages-ONLY
+
+**Live Demo**: https://pdfuniverser.netlify.app/
