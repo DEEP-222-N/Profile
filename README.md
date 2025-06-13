@@ -8,6 +8,12 @@ I’m a second-year engineering student passionate about web development, data s
 
 **Live Demo**: https://car-pred.onrender.com
 
+2) *Loan_Approval_Predictor*:
+
+**GitHub**: https://github.com/DEEP-222-N/Loan_Approval_Predictor
+
+**Live Demo**: https://loan-approval-predictor-xr70.onrender.com
+
 # Web-Dev
 1) *Dosa Point*:
 
