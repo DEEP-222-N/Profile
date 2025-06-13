@@ -14,6 +14,21 @@ I’m a second-year engineering student passionate about web development, data s
 
 **Live Demo**: https://loan-approval-predictor-xr70.onrender.com
 
+# Data Analysis
+
+1) *BlinkIt_DA*:
+
+**GitHub**: https://github.com/DEEP-222-N/BlinkIt_DA
+
+2) *Zomato_DA*:
+
+**GitHub**: https://github.com/DEEP-222-N/Zomato_DA
+
+3) *Netflix_DA*:
+
+**GitHub**: https://github.com/DEEP-222-N/Netflix/tree/main
+
+
 # Web-Dev
 1) *Dosa Point*:
 
