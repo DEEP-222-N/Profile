@@ -6,7 +6,7 @@ I’m a second-year engineering student passionate about web development, data s
 
 Sidcup-Family-Golf---Website-Clone:
 
-*GitHub*: https://github.com/DEEP-222-N/-Sidcup-Family-Golf---Website-Clone
+**GitHub**: https://github.com/DEEP-222-N/-Sidcup-Family-Golf---Website-Clone
 
-Live Demo: https://sidecupclone.netlify.app/
+**Live Demo**: https://sidecupclone.netlify.app/
 
