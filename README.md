@@ -1,7 +1,7 @@
 # Profile
 Hi, I'm Deep Naidu, a second-year engineering student pursuing Computer Science and Engineering (Data Science) with Honours in Computational Finance. I'm passionate about web development, data analytics, data science, and machine learning. Skilled in Java, Python, and C, I'm currently building a strong foundation in data structures, full stack development, and modern technologies. My goal is to become a versatile engineer who uses technology and data to solve real-world problems and create meaningful solutions.
 
-# ML
+# Machine Learning and Data Science
 1) *Car Prediction*:
 
 **GitHub**: https://github.com/DEEP-222-N/Car_Pred
