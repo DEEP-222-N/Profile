@@ -14,6 +14,12 @@ Hi, I'm Deep Naidu, a second-year engineering student pursuing Computer Science 
 
 **Live Demo**: https://loan-approval-predictor-xr70.onrender.com
 
+3) *Mobile_Recommender*:
+
+**GitHub**: https://github.com/DEEP-222-N/Mobile_Recommender
+
+**Live Demo**: https://mobile-recommender-jmwz.onrender.com/
+
 # Data Analysis
 
 1) *BlinkIt_DA*:
@@ -27,6 +33,10 @@ Hi, I'm Deep Naidu, a second-year engineering student pursuing Computer Science 
 3) *Netflix_DA*:
 
 **GitHub**: https://github.com/DEEP-222-N/Netflix/tree/main
+
+4) *Mobile_DA*:
+
+**GitHub**: https://github.com/DEEP-222-N/Mobile_DA
 
 
 # Web-Dev
