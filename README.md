@@ -1,5 +1,5 @@
 # Profile
-I’m a second-year engineering student passionate about web development, data science, data analytics, and machine learning. Skilled in Java, Python, and C, I'm strengthening my foundation in data structures, UI/UX, and modern tech. I aim to become a versatile engineer solving real-world problems with tech and data.
+Hi, I'm Deep Naidu, a second-year engineering student pursuing Computer Science and Engineering (Data Science) with Honours in Computational Finance. I'm passionate about web development, data analytics, data science, and machine learning. Skilled in Java, Python, and C, I'm currently building a strong foundation in data structures, full stack development, and modern technologies. My goal is to become a versatile engineer who uses technology and data to solve real-world problems and create meaningful solutions.
 
 # ML
 1) *Car Prediction*:
