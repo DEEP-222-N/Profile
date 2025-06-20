@@ -26,9 +26,13 @@ Hi, I'm Deep Naidu, a second-year engineering student pursuing Computer Science 
 
 **GitHub**: https://github.com/DEEP-222-N/BlinkIt_DA
 
+**Power BI Link**: https://app.powerbi.com/view?r=eyJrIjoiZWMxNjJmYTItMjA4Yy00YTI5LWI4M2QtNjA0MjVhYzU5YzMyIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
+
 2) *Zomato_DA*:
 
 **GitHub**: https://github.com/DEEP-222-N/Zomato_DA
+
+**Power BI Link**: https://app.powerbi.com/view?r=eyJrIjoiMjdiYzZiOWUtMmZhYy00Y2ZmLWI2ODUtMDc1MmFkY2JlOTA3IiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
 
 3) *Netflix_DA*:
 
@@ -37,6 +41,8 @@ Hi, I'm Deep Naidu, a second-year engineering student pursuing Computer Science 
 4) *Mobile_DA*:
 
 **GitHub**: https://github.com/DEEP-222-N/Mobile_DA
+
+**Power BI Link**: https://app.powerbi.com/view?r=eyJrIjoiMWRkYTA3ZWMtMTNhYy00ODM1LTk1NDYtYmQxOWE3MmRmYjhhIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
 
 
 # Web-Dev
