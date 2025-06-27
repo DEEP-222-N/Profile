@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Deep Naidu!
 
-🎓 I’m a second-year Computer Science & Engineering (Data Science) student with Honours in Computational Finance.  
-🚀 I'm passionate about **web development**, **data analytics**, **machine learning**, and **solving real-world problems using technology and data**.
+🎓 I'm pursuing a degree in Computer Science and Engineering (Data Science) with Honours in Computational Finance.  
+🚀 Passionate about **web development**, **data analytics**, **machine learning**, and using **technology to solve real-world problems**.
 
-🔧 Skilled in **Java**, **Python**, and **C**, I’m building a solid foundation in **DSA**, **full stack development**, and **modern tools** to become a well-rounded engineer.
+💡 Skilled in **Java**, **Python**, and **C**, I'm actively building a strong foundation in **data structures**, **full stack development**, and **modern tools and technologies**—aiming to become a versatile and impact-driven engineer.
 
 ---
 
