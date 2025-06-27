@@ -1,97 +1,81 @@
-# Profile
-Hi, I'm Deep Naidu, a second-year engineering student pursuing Computer Science and Engineering (Data Science) with Honours in Computational Finance. I'm passionate about web development, data analytics, data science, and machine learning. Skilled in Java, Python, and C, I'm currently building a strong foundation in data structures, full stack development, and modern technologies. My goal is to become a versatile engineer who uses technology and data to solve real-world problems and create meaningful solutions.
+# 👋 Hi there, I'm Deep Naidu!
 
-# Machine Learning and Data Science
-1) *Car Prediction*:
+🎓 I’m a second-year Computer Science & Engineering (Data Science) student with Honours in Computational Finance.  
+🚀 I'm passionate about **web development**, **data analytics**, **machine learning**, and **solving real-world problems using technology and data**.
 
-**GitHub**: https://github.com/DEEP-222-N/Car_Pred
+🔧 Skilled in **Java**, **Python**, and **C**, I’m building a solid foundation in **DSA**, **full stack development**, and **modern tools** to become a well-rounded engineer.
 
-**Live Demo**: https://car-pred.onrender.com
+---
 
-2) *Loan_Approval_Predictor*:
+## 🧠 Machine Learning & Data Science Projects
 
-**GitHub**: https://github.com/DEEP-222-N/Loan_Approval_Predictor
+1. 🔧 **Car Price Predictor**  
+Predicts car prices based on input features using ML.  
+[🔗 GitHub](https://github.com/DEEP-222-N/Car_Pred) • [🌐 Live Demo](https://car-pred.onrender.com)
 
-**Live Demo**: https://loan-approval-predictor-xr70.onrender.com
+2. 🏦 **Loan Approval Predictor**  
+Classifies whether a loan should be approved or not.  
+[🔗 GitHub](https://github.com/DEEP-222-N/Loan_Approval_Predictor) • [🌐 Live Demo](https://loan-approval-predictor-xr70.onrender.com)
 
-3) *Mobile_Recommender*:
+3. 📱 **Mobile Recommender System**  
+Recommends phones based on user preferences using ML.  
+[🔗 GitHub](https://github.com/DEEP-222-N/Mobile_Recommender) • [🌐 Live Demo](https://mobile-recommender-jmwz.onrender.com)
 
-**GitHub**: https://github.com/DEEP-222-N/Mobile_Recommender
+---
 
-**Live Demo**: https://mobile-recommender-jmwz.onrender.com/
+## 📊 Data Analytics Projects (Power BI + Python)
 
-# Data Analysis
+1. 🛒 **BlinkIt Sales Analytics**  
+Power BI visualization of sales, orders, and trends.  
+[🔗 GitHub](https://github.com/DEEP-222-N/BlinkIt_DA) • [📊 Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZWMxNjJmYTItMjA4Yy00YTI5LWI4M2QtNjA0MjVhYzU5YzMyIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D)
 
-1) *BlinkIt_DA*:
+2. 🍽️ **Zomato Restaurant Analysis**  
+Analyzes restaurant data for user ratings and pricing insights.  
+[🔗 GitHub](https://github.com/DEEP-222-N/Zomato_DA) • [📊 Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMjdiYzZiOWUtMmZhYy00Y2ZmLWI2ODUtMDc1MmFkY2JlOTA3IiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D)
 
-**GitHub**: https://github.com/DEEP-222-N/BlinkIt_DA
+3. 🎬 **Netflix Content Analysis**  
+Explores trends, genre distributions, and year-wise content.  
+[🔗 GitHub](https://github.com/DEEP-222-N/Netflix/tree/main)
 
-**Power BI Link**: https://app.powerbi.com/view?r=eyJrIjoiZWMxNjJmYTItMjA4Yy00YTI5LWI4M2QtNjA0MjVhYzU5YzMyIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
+4. 📱 **Mobile Market Analysis**  
+Analyzes phone specs, prices, and ratings.  
+[🔗 GitHub](https://github.com/DEEP-222-N/Mobile_DA) • [📊 Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMWRkYTA3ZWMtMTNhYy00ODM1LTk1NDYtYmQxOWE3MmRmYjhhIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D)
 
-2) *Zomato_DA*:
+---
 
-**GitHub**: https://github.com/DEEP-222-N/Zomato_DA
+## 🌐 Web Development Projects
 
-**Power BI Link**: https://app.powerbi.com/view?r=eyJrIjoiMjdiYzZiOWUtMmZhYy00Y2ZmLWI2ODUtMDc1MmFkY2JlOTA3IiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
+1. 🍽️ **Dosa Point** – Restaurant UI  
+[🔗 GitHub](https://github.com/DEEP-222-N/Dosa_Point) • [🌐 Live](https://dosapoint.netlify.app/)
 
-3) *Netflix_DA*:
+2. 🥋 **UFC Stats Dashboard** – Event highlights  
+[🔗 GitHub](https://github.com/DEEP-222-N/UFC) • [🌐 Live](https://ufcd.netlify.app/)
 
-**GitHub**: https://github.com/DEEP-222-N/Netflix/tree/main
+3. 🏦 **Modern Bank App** – Online banking UI (Login: test@123 | Password: Test@123)  
+[🔗 GitHub](https://github.com/DEEP-222-N/Modern_Bank) • [🌐 Live](https://modernbankin.netlify.app/)
 
-4) *Mobile_DA*:
+4. ⛳ **Sidcup Golf Clone** – Responsive UI clone  
+[🔗 GitHub](https://github.com/DEEP-222-N/-Sidcup-Family-Golf---Website-Clone) • [🌐 Live](https://sidecupclone.netlify.app/)
 
-**GitHub**: https://github.com/DEEP-222-N/Mobile_DA
+5. 💱 **Currency Converter** – Real-time conversion  
+[🔗 GitHub](https://github.com/DEEP-222-N/Currency-Convertor?tab=readme-ov-file#currency-convertor) • [🌐 Live](https://cuconverterd.netlify.app/)
 
-**Power BI Link**: https://app.powerbi.com/view?r=eyJrIjoiMWRkYTA3ZWMtMTNhYy00ODM1LTk1NDYtYmQxOWE3MmRmYjhhIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D
+6. 🛍️ **Amazon Clone** – Frontend-only replica  
+[🔗 GitHub](https://github.com/DEEP-222-N/Amazon-Clone-Frontend-Only-) • [🌐 Live](https://amazonclonedeep.netlify.app/)
 
+7. 🔐 **Random Password Generator** – Strong & secure passwords  
+[🔗 GitHub](https://github.com/DEEP-222-N/Random-Password-Generator) • [🌐 Live](https://passgeneratr.netlify.app/)
 
-# Web-Dev
-1) *Dosa Point*:
+8. 📄 **PDF Universe Homepage** – File converter homepage UI  
+[🔗 GitHub](https://github.com/DEEP-222-N/PDF-Universe-HOME-Pages-ONLY) • [🌐 Live](https://pdfuniverser.netlify.app/)
 
-**GitHub**: https://github.com/DEEP-222-N/Dosa_Point
+---
 
-**Live Demo**: https://dosapoint.netlify.app/
+## 📫 Let's Connect!
 
-2) *UFC*:
+I'm always open to new ideas, collaboration, and opportunities!  
+📧 Email: [deep.naidu222@gmail.com](mailto:deep.naidu222@gmail.com)
 
-**GitHub**: https://github.com/DEEP-222-N/UFC
+---
 
-**Live Demo**: https://ufcd.netlify.app/
-
-3) *Modern_Bank*:
-
-**GitHub**: https://github.com/DEEP-222-N/Modern_Bank
-
-**Live Demo**: https://modernbankin.netlify.app/
-
-For UserName : test@123 password : Test@123
-
-4) *Sidcup-Family-Golf---Website-Clone*:
-
-**GitHub**: https://github.com/DEEP-222-N/-Sidcup-Family-Golf---Website-Clone
-
-**Live Demo**: https://sidecupclone.netlify.app/
-
-5) *Currency-Convertor*:
-
-**GitHub**: https://github.com/DEEP-222-N/Currency-Convertor?tab=readme-ov-file#currency-convertor
-
-**Live Demo**: https://cuconverterd.netlify.app/
-
-7) *Amazon-Clone-Frontend-Only*:
-
-**GitHub**: https://github.com/DEEP-222-N/Amazon-Clone-Frontend-Only-
-
-**Live Demo**: https://amazonclonedeep.netlify.app/
-
-8) *Random-Password-Generator*:
-
-**GitHub**: https://github.com/DEEP-222-N/Random-Password-Generator
-
-**Live Demo**: https://passgeneratr.netlify.app/
-
-9) *PDF-Universe-HOME-Pages-ONLY*:
-
-**GitHub**: https://github.com/DEEP-222-N/PDF-Universe-HOME-Pages-ONLY
-
-**Live Demo**: https://pdfuniverser.netlify.app/
+⭐ If you like my work, feel free to star the repos and follow me for updates!
